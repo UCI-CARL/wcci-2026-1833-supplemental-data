@@ -1,0 +1,380 @@
+CARLsim parameters set from parameter file:
+(carlsim.conf)
+CARLsim parameters set by environment variables:
+CARLsim parameter set with CLI:
+CARLSIM_RAND_SEED = 42
+CARLSIM_CUSTOM_2 = 10
+CARLSIM_OMP_THREADS = 4
+*********************************************************************************
+********************      Welcome to CARLsim 6.0      ***************************
+*********************************************************************************
+
+***************************** Configuring Network ********************************
+Starting CARLsim simulation "synfire4loopB" in USER mode
+Random number seed: 42
+Running group (G:1) COBA mode:
+  - AMPA decay time            =     5 ms
+  - NMDA decay time            =   150 ms
+  - NMDA rise time (disabled)  =     0 ms
+  - GABAa decay time           =     6 ms
+  - GABAb rise time (disabled) =     0 ms
+  - GABAb decay time           =   150 ms
+Running group (G:2) COBA mode:
+  - AMPA decay time            =     5 ms
+  - NMDA decay time            =   150 ms
+  - NMDA rise time (disabled)  =     0 ms
+  - GABAa decay time           =     6 ms
+  - GABAb rise time (disabled) =     0 ms
+  - GABAb decay time           =   150 ms
+Running group (G:3) COBA mode:
+  - AMPA decay time            =     5 ms
+  - NMDA decay time            =   150 ms
+  - NMDA rise time (disabled)  =     0 ms
+  - GABAa decay time           =     6 ms
+  - GABAb rise time (disabled) =     0 ms
+  - GABAb decay time           =   150 ms
+Running group (G:4) COBA mode:
+  - AMPA decay time            =     5 ms
+  - NMDA decay time            =   150 ms
+  - NMDA rise time (disabled)  =     0 ms
+  - GABAa decay time           =     6 ms
+  - GABAb rise time (disabled) =     0 ms
+  - GABAb decay time           =   150 ms
+Running group (G:5) COBA mode:
+  - AMPA decay time            =     5 ms
+  - NMDA decay time            =   150 ms
+  - NMDA rise time (disabled)  =     0 ms
+  - GABAa decay time           =     6 ms
+  - GABAb rise time (disabled) =     0 ms
+  - GABAb decay time           =   150 ms
+Running group (G:6) COBA mode:
+  - AMPA decay time            =     5 ms
+  - NMDA decay time            =   150 ms
+  - NMDA rise time (disabled)  =     0 ms
+  - GABAa decay time           =     6 ms
+  - GABAb rise time (disabled) =     0 ms
+  - GABAb decay time           =   150 ms
+Running group (G:7) COBA mode:
+  - AMPA decay time            =     5 ms
+  - NMDA decay time            =   150 ms
+  - NMDA rise time (disabled)  =     0 ms
+  - GABAa decay time           =     6 ms
+  - GABAb rise time (disabled) =     0 ms
+  - GABAb decay time           =   150 ms
+Running group (G:8) COBA mode:
+  - AMPA decay time            =     5 ms
+  - NMDA decay time            =   150 ms
+  - NMDA rise time (disabled)  =     0 ms
+  - GABAa decay time           =     6 ms
+  - GABAb rise time (disabled) =     0 ms
+  - GABAb decay time           =   150 ms
+Running group 9 in CUBA mode (synaptic conductances disabled)
+Running group 10 in CUBA mode (synaptic conductances disabled)
+
+
+************************** Global Network Configuration *******************************
+The number of neurons in the network (numN) = 10200
+The number of regular neurons in the network (numNReg:numNExcReg:numNInhReg) = 10000:8000:2000
+The number of poisson neurons in the network (numNPois:numNExcPois:numInhPois) = 200:200:0
+The maximum axonal delay in the network (maxDelay) = 20
+
++ Local Network (0)
+|-+ Group List:
+  |-+ Local Group Cstim(G:0,L:10): 
+    |- Type                       =    EXCIT_POISSON
+    |- Num of Neurons             =      200
+    |- Start Id                   = (G:10000,L:10000)
+    |- End Id                     = (G:10199,L:10199)
+    |- numPostSynapses            =    13003
+    |- numPreSynapses             =        0
+    |- Refractory period          =  0.00000
+  |-+ Local Group Cexc0(G:1,L:0): 
+    |- Type                       =    EXCIT
+    |- Num of Neurons             =      200
+    |- Start Id                   = (G:0,L:0)
+    |- End Id                     = (G:199,L:199)
+    |- numPostSynapses            =    12930
+    |- numPreSynapses             =    28662
+  |-+ Local Group Cinh0(G:2,L:5): 
+    |- Type                       =    INHIB
+    |- Num of Neurons             =       50
+    |- Start Id                   = (G:8000,L:8000)
+    |- End Id                     = (G:8049,L:8049)
+    |- numPostSynapses            =     7874
+    |- numPreSynapses             =     5207
+  |-+ Local Group Cexc1(G:3,L:1): 
+    |- Type                       =    EXCIT
+    |- Num of Neurons             =      200
+    |- Start Id                   = (G:200,L:200)
+    |- End Id                     = (G:399,L:399)
+    |- numPostSynapses            =    13023
+    |- numPreSynapses             =    14338
+  |-+ Local Group Cinh1(G:4,L:6): 
+    |- Type                       =    INHIB
+    |- Num of Neurons             =       50
+    |- Start Id                   = (G:8050,L:8050)
+    |- End Id                     = (G:8099,L:8099)
+    |- numPostSynapses            =     3975
+    |- numPreSynapses             =     2567
+  |-+ Local Group Cexc2(G:5,L:2): 
+    |- Type                       =    EXCIT
+    |- Num of Neurons             =      200
+    |- Start Id                   = (G:400,L:400)
+    |- End Id                     = (G:599,L:599)
+    |- numPostSynapses            =    13051
+    |- numPreSynapses             =    14390
+  |-+ Local Group Cinh2(G:6,L:7): 
+    |- Type                       =    INHIB
+    |- Num of Neurons             =       50
+    |- Start Id                   = (G:8100,L:8100)
+    |- End Id                     = (G:8149,L:8149)
+    |- numPostSynapses            =     3981
+    |- numPreSynapses             =     2614
+  |-+ Local Group Cexc3(G:7,L:3): 
+    |- Type                       =    EXCIT
+    |- Num of Neurons             =      200
+    |- Start Id                   = (G:600,L:600)
+    |- End Id                     = (G:799,L:799)
+    |- numPostSynapses            =    12992
+    |- numPreSynapses             =    14454
+  |-+ Local Group Cinh3(G:8,L:8): 
+    |- Type                       =    INHIB
+    |- Num of Neurons             =       50
+    |- Start Id                   = (G:8150,L:8150)
+    |- End Id                     = (G:8199,L:8199)
+    |- numPostSynapses            =     3989
+    |- numPreSynapses             =     2586
+  |-+ Local Group CexcN(G:9,L:4): 
+    |- Type                       =    EXCIT
+    |- Num of Neurons             =     7200
+    |- Start Id                   = (G:800,L:800)
+    |- End Id                     = (G:7999,L:7999)
+    |- numPostSynapses            =        0
+    |- numPreSynapses             =        0
+  |-+ Local Group CinhN(G:10,L:9): 
+    |- Type                       =    INHIB
+    |- Num of Neurons             =     1800
+    |- Start Id                   = (G:8200,L:8200)
+    |- End Id                     = (G:9999,L:9999)
+    |- numPostSynapses            =        0
+    |- numPreSynapses             =        0
+|-+ Connection List:
+  |-+ Local Connection Id 0: Cstim(0) => Cexc0(1)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  1.00000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       10
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 10405
+    |- Avg numPreSynapses         =    52.03
+    |- Avg numPostSynapses        =    52.03
+  |-+ Local Connection Id 1: Cstim(0) => Cinh0(2)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  3.50000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       10
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 2598
+    |- Avg numPreSynapses         =    51.96
+    |- Avg numPostSynapses        =    12.99
+  |-+ Local Connection Id 2: Cinh0(2) => Cexc0(1)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  2.00000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =        8
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 3949
+    |- Avg numPreSynapses         =    19.75
+    |- Avg numPostSynapses        =    78.98
+  |-+ Local Connection Id 3: Cexc0(1) => Cexc1(3)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  1.00000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       10
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 10363
+    |- Avg numPreSynapses         =    51.81
+    |- Avg numPostSynapses        =    51.81
+  |-+ Local Connection Id 4: Cexc0(1) => Cinh1(4)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  3.50000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       10
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 2567
+    |- Avg numPreSynapses         =    51.34
+    |- Avg numPostSynapses        =    12.84
+  |-+ Local Connection Id 5: Cinh1(4) => Cexc1(3)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  2.00000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =        8
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 3975
+    |- Avg numPreSynapses         =    19.88
+    |- Avg numPostSynapses        =    79.50
+  |-+ Local Connection Id 6: Cexc1(3) => Cexc2(5)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  1.00000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       10
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 10409
+    |- Avg numPreSynapses         =    52.04
+    |- Avg numPostSynapses        =    52.04
+  |-+ Local Connection Id 7: Cexc1(3) => Cinh2(6)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  3.50000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       10
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 2614
+    |- Avg numPreSynapses         =    52.28
+    |- Avg numPostSynapses        =    13.07
+  |-+ Local Connection Id 8: Cinh2(6) => Cexc2(5)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  2.00000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =        8
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 3981
+    |- Avg numPreSynapses         =    19.91
+    |- Avg numPostSynapses        =    79.62
+  |-+ Local Connection Id 9: Cexc2(5) => Cexc3(7)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  1.00000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       10
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 10465
+    |- Avg numPreSynapses         =    52.33
+    |- Avg numPostSynapses        =    52.33
+  |-+ Local Connection Id 10: Cexc2(5) => Cinh3(8)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  3.50000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       10
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 2586
+    |- Avg numPreSynapses         =    51.72
+    |- Avg numPostSynapses        =    12.93
+  |-+ Local Connection Id 11: Cinh3(8) => Cexc3(7)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  2.00000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =        8
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 3989
+    |- Avg numPreSynapses         =    19.94
+    |- Avg numPostSynapses        =    79.78
+  |-+ Local Connection Id 12: Cexc3(7) => Cexc0(1)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  1.00000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       10
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 10383
+    |- Avg numPreSynapses         =    51.92
+    |- Avg numPostSynapses        =    51.92
+  |-+ Local Connection Id 13: Cexc3(7) => Cinh0(2)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  3.50000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       10
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 2609
+    |- Avg numPreSynapses         =    52.18
+    |- Avg numPostSynapses        =    13.05
+  |-+ Local Connection Id 14: Cinh0(2) => Cexc0(1)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  2.00000
+    |- Initial weight             =  0.00000
+    |- Min delay                  =        1
+    |- Max delay                  =        8
+    |- Radius X                   =     0.00
+    |- Radius Y                   =     0.00
+    |- Radius Z                   =     0.00
+    |- Num of synapses            = 3925
+    |- Avg numPreSynapses         =    19.62
+    |- Avg numPostSynapses        =    78.50
+
+*****************      Initializing CPU 0 Runtime      *************************
+
+
+********************    Simulation Summary      ***************************
+Network Parameters: 	numNeurons = 10200 (numNExcReg:numNInhReg = 78.4:19.6)
+			numSynapses = 84818
+			maxDelay = 20
+Simulation Mode:	COBA
+Random Seed:		42
+Timing:			Model Simulation Time = 10 sec
+			Actual Execution Time = 17.31 sec
+			Speed Factor (Model/Real) = 57.8 % 
+Average Firing Rate:	2+ms delay = 499.999 Hz
+			1ms delay = 0.000 Hz
+			Overall = 58.823 Hz
+Overall Spike Count Transferred:
+			2+ms delay = 0
+			1ms delay = 0
+Overall Spike Count:	2+ms delay = 5999990
+			1ms delay = 0
+			Total = 5999990
+*********************************************************************************
+

@@ -1,0 +1,1011 @@
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:3146] *********************************************************************************
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:3148] ********************      Welcome to CARLsim 6.0      ***************************
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:3149] *********************************************************************************
+
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:3151] ***************************** Configuring Network ********************************
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:3153] Starting CARLsim simulation "synfire4loopB" in USER mode
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:3154] Random number seed: 42
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:3160] Current local time and date: Sat Oct 11 13:07:19 2025
+
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:764] Running group (G:1) COBA mode:
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:765]   - AMPA decay time            =     5 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:766]   - NMDA decay time            =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:767]   - NMDA rise time (disabled)  =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:768]   - GABAa decay time           =     6 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:769]   - GABAb rise time (disabled) =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:770]   - GABAb decay time           =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:764] Running group (G:2) COBA mode:
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:765]   - AMPA decay time            =     5 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:766]   - NMDA decay time            =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:767]   - NMDA rise time (disabled)  =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:768]   - GABAa decay time           =     6 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:769]   - GABAb rise time (disabled) =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:770]   - GABAb decay time           =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:764] Running group (G:3) COBA mode:
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:765]   - AMPA decay time            =     5 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:766]   - NMDA decay time            =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:767]   - NMDA rise time (disabled)  =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:768]   - GABAa decay time           =     6 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:769]   - GABAb rise time (disabled) =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:770]   - GABAb decay time           =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:764] Running group (G:4) COBA mode:
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:765]   - AMPA decay time            =     5 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:766]   - NMDA decay time            =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:767]   - NMDA rise time (disabled)  =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:768]   - GABAa decay time           =     6 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:769]   - GABAb rise time (disabled) =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:770]   - GABAb decay time           =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:764] Running group (G:5) COBA mode:
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:765]   - AMPA decay time            =     5 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:766]   - NMDA decay time            =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:767]   - NMDA rise time (disabled)  =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:768]   - GABAa decay time           =     6 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:769]   - GABAb rise time (disabled) =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:770]   - GABAb decay time           =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:764] Running group (G:6) COBA mode:
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:765]   - AMPA decay time            =     5 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:766]   - NMDA decay time            =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:767]   - NMDA rise time (disabled)  =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:768]   - GABAa decay time           =     6 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:769]   - GABAb rise time (disabled) =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:770]   - GABAb decay time           =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:764] Running group (G:7) COBA mode:
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:765]   - AMPA decay time            =     5 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:766]   - NMDA decay time            =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:767]   - NMDA rise time (disabled)  =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:768]   - GABAa decay time           =     6 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:769]   - GABAb rise time (disabled) =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:770]   - GABAb decay time           =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:764] Running group (G:8) COBA mode:
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:765]   - AMPA decay time            =     5 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:766]   - NMDA decay time            =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:767]   - NMDA rise time (disabled)  =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:768]   - GABAa decay time           =     6 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:769]   - GABAb rise time (disabled) =     0 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:770]   - GABAb decay time           =   150 ms
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:773] Running group 9 in CUBA mode (synaptic conductances disabled)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:773] Running group 10 in CUBA mode (synaptic conductances disabled)
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:5414] Beginning compilation of the network....
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4614] Allocation for 1(Cexc0), St=0, End=199
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4614] Allocation for 3(Cexc1), St=200, End=399
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4614] Allocation for 5(Cexc2), St=400, End=599
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4614] Allocation for 7(Cexc3), St=600, End=799
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4614] Allocation for 9(CexcN), St=800, End=1599
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4614] Allocation for 2(Cinh0), St=1600, End=1649
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4614] Allocation for 4(Cinh1), St=1650, End=1699
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4614] Allocation for 6(Cinh2), St=1700, End=1749
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4614] Allocation for 8(Cinh3), St=1750, End=1799
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4614] Allocation for 10(CinhN), St=1800, End=1999
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4614] Allocation for 0(Cstim), St=2000, End=2199
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:5435] 
+
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:5436] ************************** Global Network Configuration *******************************
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:5437] The number of neurons in the network (numN) = 2200
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:5438] The number of regular neurons in the network (numNReg:numNExcReg:numNInhReg) = 2000:1600:400
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:5439] The number of poisson neurons in the network (numNPois:numNExcPois:numInhPois) = 200:200:0
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:5440] The maximum axonal delay in the network (maxDelay) = 20
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4633] Allocation for group (Cexc0) [id:1, local id:0], St=0, End=199
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4633] Allocation for group (Cexc1) [id:3, local id:1], St=200, End=399
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4633] Allocation for group (Cexc2) [id:5, local id:2], St=400, End=599
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4633] Allocation for group (Cexc3) [id:7, local id:3], St=600, End=799
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4633] Allocation for group (CexcN) [id:9, local id:4], St=800, End=1599
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4633] Allocation for group (Cinh0) [id:2, local id:5], St=1600, End=1649
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4633] Allocation for group (Cinh1) [id:4, local id:6], St=1650, End=1699
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4633] Allocation for group (Cinh2) [id:6, local id:7], St=1700, End=1749
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4633] Allocation for group (Cinh3) [id:8, local id:8], St=1750, End=1799
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4633] Allocation for group (CinhN) [id:10, local id:9], St=1800, End=1999
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:4633] Allocation for group (Cstim) [id:0, local id:10], St=2000, End=2199
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:7604] 
++ Local Network (0)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:7605] |-+ Group List:
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:350]   |-+ Local Group Cstim(G:0,L:10): 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:360]     |- Type                       =    EXCIT_POISSON
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:362]     |- Num of Neurons             =      200
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:363]     |- Start Id                   = (G:2000,L:2000)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:364]     |- End Id                     = (G:2199,L:2199)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:365]     |- numPostSynapses            =    13003
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:366]     |- numPreSynapses             =        0
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:374]     |- Refractory period          =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:350]   |-+ Local Group Cexc0(G:1,L:0): 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:360]     |- Type                       =    EXCIT
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:362]     |- Num of Neurons             =      200
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:363]     |- Start Id                   = (G:0,L:0)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:364]     |- End Id                     = (G:199,L:199)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:365]     |- numPostSynapses            =    12930
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:366]     |- numPreSynapses             =    28662
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:350]   |-+ Local Group Cinh0(G:2,L:5): 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:360]     |- Type                       =    INHIB
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:362]     |- Num of Neurons             =       50
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:363]     |- Start Id                   = (G:1600,L:1600)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:364]     |- End Id                     = (G:1649,L:1649)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:365]     |- numPostSynapses            =     7874
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:366]     |- numPreSynapses             =     5207
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:350]   |-+ Local Group Cexc1(G:3,L:1): 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:360]     |- Type                       =    EXCIT
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:362]     |- Num of Neurons             =      200
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:363]     |- Start Id                   = (G:200,L:200)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:364]     |- End Id                     = (G:399,L:399)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:365]     |- numPostSynapses            =    13023
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:366]     |- numPreSynapses             =    14338
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:350]   |-+ Local Group Cinh1(G:4,L:6): 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:360]     |- Type                       =    INHIB
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:362]     |- Num of Neurons             =       50
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:363]     |- Start Id                   = (G:1650,L:1650)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:364]     |- End Id                     = (G:1699,L:1699)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:365]     |- numPostSynapses            =     3975
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:366]     |- numPreSynapses             =     2567
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:350]   |-+ Local Group Cexc2(G:5,L:2): 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:360]     |- Type                       =    EXCIT
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:362]     |- Num of Neurons             =      200
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:363]     |- Start Id                   = (G:400,L:400)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:364]     |- End Id                     = (G:599,L:599)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:365]     |- numPostSynapses            =    13051
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:366]     |- numPreSynapses             =    14390
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:350]   |-+ Local Group Cinh2(G:6,L:7): 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:360]     |- Type                       =    INHIB
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:362]     |- Num of Neurons             =       50
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:363]     |- Start Id                   = (G:1700,L:1700)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:364]     |- End Id                     = (G:1749,L:1749)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:365]     |- numPostSynapses            =     3981
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:366]     |- numPreSynapses             =     2614
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:350]   |-+ Local Group Cexc3(G:7,L:3): 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:360]     |- Type                       =    EXCIT
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:362]     |- Num of Neurons             =      200
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:363]     |- Start Id                   = (G:600,L:600)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:364]     |- End Id                     = (G:799,L:799)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:365]     |- numPostSynapses            =    12992
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:366]     |- numPreSynapses             =    14454
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:350]   |-+ Local Group Cinh3(G:8,L:8): 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:360]     |- Type                       =    INHIB
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:362]     |- Num of Neurons             =       50
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:363]     |- Start Id                   = (G:1750,L:1750)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:364]     |- End Id                     = (G:1799,L:1799)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:365]     |- numPostSynapses            =     3989
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:366]     |- numPreSynapses             =     2586
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:350]   |-+ Local Group CexcN(G:9,L:4): 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:360]     |- Type                       =    EXCIT
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:362]     |- Num of Neurons             =      800
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:363]     |- Start Id                   = (G:800,L:800)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:364]     |- End Id                     = (G:1599,L:1599)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:365]     |- numPostSynapses            =        0
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:366]     |- numPreSynapses             =        0
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:350]   |-+ Local Group CinhN(G:10,L:9): 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:360]     |- Type                       =    INHIB
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:362]     |- Num of Neurons             =      200
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:363]     |- Start Id                   = (G:1800,L:1800)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:364]     |- End Id                     = (G:1999,L:1999)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:365]     |- numPostSynapses            =        0
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:366]     |- numPreSynapses             =        0
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:7611] |-+ Connection List:
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 0: Cstim(0) => Cexc0(1)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  1.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =       10
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 10405
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    52.03
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    52.03
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 1: Cstim(0) => Cinh0(2)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  3.50000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =       10
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 2598
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    51.96
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    12.99
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 2: Cinh0(2) => Cexc0(1)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  2.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =        8
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 3949
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    19.75
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    78.98
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 3: Cexc0(1) => Cexc1(3)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  1.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =       10
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 10363
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    51.81
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    51.81
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 4: Cexc0(1) => Cinh1(4)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  3.50000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =       10
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 2567
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    51.34
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    12.84
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 5: Cinh1(4) => Cexc1(3)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  2.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =        8
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 3975
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    19.88
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    79.50
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 6: Cexc1(3) => Cexc2(5)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  1.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =       10
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 10409
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    52.04
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    52.04
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 7: Cexc1(3) => Cinh2(6)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  3.50000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =       10
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 2614
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    52.28
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    13.07
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 8: Cinh2(6) => Cexc2(5)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  2.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =        8
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 3981
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    19.91
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    79.62
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 9: Cexc2(5) => Cexc3(7)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  1.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =       10
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 10465
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    52.33
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    52.33
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 10: Cexc2(5) => Cinh3(8)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  3.50000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =       10
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 2586
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    51.72
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    12.93
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 11: Cinh3(8) => Cexc3(7)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  2.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =        8
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 3989
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    19.94
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    79.78
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 12: Cexc3(7) => Cexc0(1)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  1.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =       10
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 10383
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    51.92
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    51.92
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 13: Cexc3(7) => Cinh0(2)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  3.50000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =       10
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 2609
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    52.18
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    13.05
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:235]   |-+ Local Connection Id 14: Cinh0(2) => Cexc0(1)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:236]     |- Type                       =    FIXED
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:237]     |- Min weight                 =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:238]     |- Max weight                 =  2.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:239]     |- Initial weight             =  0.00000
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:240]     |- Min delay                  =        1
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:241]     |- Max delay                  =        8
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:242]     |- Radius X                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:243]     |- Radius Y                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:244]     |- Radius Z                   =     0.00
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:245]     |- Num of synapses            = 3925
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:248]     |- Avg numPreSynapses         =    19.62
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\print_snn_info.cpp:249]     |- Avg numPostSynapses        =    78.50
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:8163] 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:8167] *****************      Initializing CPU 0 Runtime      *************************
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:3619] copyExternalCurrent: lGrpId=-1, ptrPos=0, length=2000, allocate=y
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2917] Transfering group settings to CPU:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2919] Settings for Group Cexc0:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2921] 	Type: 6
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2922] 	NumN: 200
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2923] 	M: 12930
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2924] 	PreM: 28662
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2925] 	spikeGenerator: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2926] 	FixedInputWts: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2927] 	MaxDelay: 20
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2946] 	WithSTP: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2952] 	spikeGen: is not set 
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2919] Settings for Group Cexc1:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2921] 	Type: 6
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2922] 	NumN: 200
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2923] 	M: 13023
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2924] 	PreM: 14338
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2925] 	spikeGenerator: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2926] 	FixedInputWts: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2927] 	MaxDelay: 20
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2946] 	WithSTP: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2952] 	spikeGen: is not set 
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2919] Settings for Group Cexc2:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2921] 	Type: 6
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2922] 	NumN: 200
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2923] 	M: 13051
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2924] 	PreM: 14390
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2925] 	spikeGenerator: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2926] 	FixedInputWts: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2927] 	MaxDelay: 20
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2946] 	WithSTP: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2952] 	spikeGen: is not set 
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2919] Settings for Group Cexc3:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2921] 	Type: 6
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2922] 	NumN: 200
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2923] 	M: 12992
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2924] 	PreM: 14454
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2925] 	spikeGenerator: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2926] 	FixedInputWts: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2927] 	MaxDelay: 20
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2946] 	WithSTP: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2952] 	spikeGen: is not set 
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2919] Settings for Group CexcN:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2921] 	Type: 6
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2922] 	NumN: 800
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2923] 	M: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2924] 	PreM: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2925] 	spikeGenerator: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2926] 	FixedInputWts: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2927] 	MaxDelay: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2946] 	WithSTP: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2952] 	spikeGen: is not set 
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2919] Settings for Group Cinh0:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2921] 	Type: 24
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2922] 	NumN: 50
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2923] 	M: 7874
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2924] 	PreM: 5207
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2925] 	spikeGenerator: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2926] 	FixedInputWts: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2927] 	MaxDelay: 20
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2946] 	WithSTP: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2952] 	spikeGen: is not set 
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2919] Settings for Group Cinh1:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2921] 	Type: 24
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2922] 	NumN: 50
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2923] 	M: 3975
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2924] 	PreM: 2567
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2925] 	spikeGenerator: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2926] 	FixedInputWts: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2927] 	MaxDelay: 20
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2946] 	WithSTP: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2952] 	spikeGen: is not set 
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2919] Settings for Group Cinh2:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2921] 	Type: 24
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2922] 	NumN: 50
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2923] 	M: 3981
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2924] 	PreM: 2614
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2925] 	spikeGenerator: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2926] 	FixedInputWts: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2927] 	MaxDelay: 20
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2946] 	WithSTP: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2952] 	spikeGen: is not set 
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2919] Settings for Group Cinh3:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2921] 	Type: 24
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2922] 	NumN: 50
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2923] 	M: 3989
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2924] 	PreM: 2586
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2925] 	spikeGenerator: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2926] 	FixedInputWts: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2927] 	MaxDelay: 20
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2946] 	WithSTP: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2952] 	spikeGen: is not set 
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2919] Settings for Group CinhN:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2921] 	Type: 24
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2922] 	NumN: 200
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2923] 	M: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2924] 	PreM: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2925] 	spikeGenerator: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2926] 	FixedInputWts: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2927] 	MaxDelay: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2946] 	WithSTP: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2952] 	spikeGen: is not set 
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2919] Settings for Group Cstim:
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2921] 	Type: 7
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2922] 	NumN: 200
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2923] 	M: 13003
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2924] 	PreM: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2925] 	spikeGenerator: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2926] 	FixedInputWts: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2927] 	MaxDelay: 20
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2946] 	WithSTP: 0
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_omp_module.cpp:2952] 	spikeGen: is Set
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:8231] numGPUs: 0  numCores: 1
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[DEBUG C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:1388] runNetwork: runDur=20ms, printRunSummary=n
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10035] 
+
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10036] ********************    Simulation Summary      ***************************
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10039] Network Parameters: 	numNeurons = 2200 (numNExcReg:numNInhReg = 72.7:18.2)
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10040] 			numSynapses = 84818
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10041] 			maxDelay = 20
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10042] Simulation Mode:	COBA
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10043] Random Seed:		42
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10044] Timing:			Model Simulation Time = 10 sec
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10045] 			Actual Execution Time = 18.52 sec
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10063] 			Speed Factor (Model/Real) = 54.0 % 
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10067] Average Firing Rate:	2+ms delay = 499.999 Hz
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10069] 			1ms delay = 0.000 Hz
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10070] 			Overall = 272.727 Hz
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10071] Overall Spike Count Transferred:
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10072] 			2+ms delay = 0
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10073] 			1ms delay = 0
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10074] Overall Spike Count:	2+ms delay = 5999990
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10075] 			1ms delay = 0
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10076] 			Total = 5999990
+[INFO C:\carlsimpp-t01\src\CARLsim6\carlsim\kernel\src\snn_manager.cpp:10077] *********************************************************************************
+

@@ -1,0 +1,520 @@
+*********************************************************************************
+********************      Welcome to CARLsim 6.0      ***************************
+*********************************************************************************
+
+***************************** Configuring Network ********************************
+Starting CARLsim simulation "spnet" in USER mode
+Random number seed: 42
+E-STDP enabled for exc1(0) to exc1(0)
+E-STDP enabled for exc2(1) to exc1(0)
+E-STDP enabled for exc3(2) to exc1(0)
+I-STDP enabled for inh(3) to exc1(0)
+I-STDP enabled for inh(3) to exc2(1)
+I-STDP enabled for inh(3) to exc3(2)
+E-STDP enabled for exc1(0) to exc2(1)
+E-STDP enabled for exc2(1) to exc2(1)
+E-STDP enabled for exc3(2) to exc2(1)
+E-STDP enabled for exc1(0) to exc3(2)
+E-STDP enabled for exc2(1) to exc3(2)
+E-STDP enabled for exc3(2) to exc3(2)
+Running CUBA mode (all synaptic conductances disabled)
+
+
+************************** Global Network Configuration *******************************
+The number of neurons in the network (numN) = 10010
+The number of regular neurons in the network (numNReg:numNExcReg:numNInhReg) = 10010:8010:2000
+The number of poisson neurons in the network (numNPois:numNExcPois:numInhPois) = 0:0:0
+The maximum axonal delay in the network (maxDelay) = 20
+CUDA devices Configuration:
+  - Number of CUDA devices          =         3
+  - CUDA device ID with max GFLOPs  =         0
+  + Use CUDA device[0]              = NVIDIA TITAN Xp
+  + CUDA Compute Capability (CC)    =       6.1
+  + Use CUDA device[1]              = NVIDIA TITAN Xp
+  + CUDA Compute Capability (CC)    =       6.1
+  + Use CUDA device[2]              = NVIDIA TITAN Xp COLLECTORS EDITION
+  + CUDA Compute Capability (CC)    =       6.1
+* Peer Access is enabled
+
++ Local Network (8)
+|-+ Group List:
+  |-+ Local Group exc1(G:0,L:0):
+    |- Type                       =    EXCIT
+    |- Num of Neurons             =     2670
+    |- Start Id                   = (G:0,L:0)
+    |- End Id                     = (G:2669,L:2669)
+    |- numPostSynapses            =   279886
+    |- numPreSynapses             =   267763
+  |-+ Local Group exc2(G:1,L:1):
+    |- Type                       =    EXCIT
+    |- Num of Neurons             =     2670
+    |- Start Id                   = (G:2670,L:2670)
+    |- End Id                     = (G:5339,L:5339)
+    |- numPostSynapses            =   281245
+    |- numPreSynapses             =   267364
+  |-+ Local Group exc3(G:2,L:2):
+    |- Type                       =    EXCIT
+    |- Num of Neurons             =     2670
+    |- Start Id                   = (G:5340,L:5340)
+    |- End Id                     = (G:8009,L:8009)
+    |- numPostSynapses            =   280932
+    |- numPreSynapses             =   267548
+  |-+ External Group inh(G:3,L:3):
+    |- Type                       =    INHIB
+    |- Num of Neurons             =     2000
+    |- Start Id                   = (G:8010,L:8010)
+    |- End Id                     = (G:10009,L:10009)
+    |- numPostSynapses            =   161078
+    |- numPreSynapses             =   200466
+|-+ Connection List:
+  |-+ Local Connection Id 0: exc1(0) => exc1(0)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 71409
+    |- Avg numPreSynapses         =    26.74
+    |- Avg numPostSynapses        =    26.74
+    |-+ STDP:
+      |- E-STDP TYPE            = STANDARD
+      |- I-STDP TYPE            = UNKNOWN_STDP
+      |- ALPHA_PLUS_EXC         =  0.10000
+      |- ALPHA_MINUS_EXC        = -0.10000
+      |- TAU_PLUS_INV_EXC       =  0.05000
+      |- TAU_MINUS_INV_EXC      =  0.05000
+      |- BETA_LTP               = 38617707885352780487195566448574464.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 = -4119192287986039821043148783616.00000
+      |- DELTA                  =  0.00000
+      |- NM_PKA                 = 277351147
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+  |-+ Local Connection Id 1: exc1(0) => exc2(1)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 70698
+    |- Avg numPreSynapses         =    26.48
+    |- Avg numPostSynapses        =    26.48
+    |-+ STDP:
+      |- E-STDP TYPE            = STANDARD
+      |- I-STDP TYPE            = UNKNOWN_STDP
+      |- ALPHA_PLUS_EXC         =  0.10000
+      |- ALPHA_MINUS_EXC        = -0.10000
+      |- TAU_PLUS_INV_EXC       =  0.05000
+      |- TAU_MINUS_INV_EXC      =  0.05000
+      |- BETA_LTP               = 38617707885352780487195566448574464.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 = -4119192287986039821043148783616.00000
+      |- DELTA                  =  0.00000
+      |- NM_PKA                 = 277351205
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+  |-+ Local Connection Id 2: exc1(0) => exc3(2)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 71228
+    |- Avg numPreSynapses         =    26.68
+    |- Avg numPostSynapses        =    26.68
+    |-+ STDP:
+      |- E-STDP TYPE            = STANDARD
+      |- I-STDP TYPE            = UNKNOWN_STDP
+      |- ALPHA_PLUS_EXC         =  0.10000
+      |- ALPHA_MINUS_EXC        = -0.10000
+      |- TAU_PLUS_INV_EXC       =  0.05000
+      |- TAU_MINUS_INV_EXC      =  0.05000
+      |- BETA_LTP               = 38617707885352780487195566448574464.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 = -4119192287986039821043148783616.00000
+      |- DELTA                  =  0.00000
+      |- NM_PKA                 = 277351205
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+  |-+ Local Connection Id 3: exc2(1) => exc1(0)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 71708
+    |- Avg numPreSynapses         =    26.86
+    |- Avg numPostSynapses        =    26.86
+    |-+ STDP:
+      |- E-STDP TYPE            = STANDARD
+      |- I-STDP TYPE            = UNKNOWN_STDP
+      |- ALPHA_PLUS_EXC         =  0.10000
+      |- ALPHA_MINUS_EXC        = -0.10000
+      |- TAU_PLUS_INV_EXC       =  0.05000
+      |- TAU_MINUS_INV_EXC      =  0.05000
+      |- BETA_LTP               = 38617707885352780487195566448574464.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 = -4119192287986039821043148783616.00000
+      |- DELTA                  =  0.00000
+      |- NM_PKA                 = 277351147
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+  |-+ Local Connection Id 4: exc2(1) => exc2(1)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 71376
+    |- Avg numPreSynapses         =    26.73
+    |- Avg numPostSynapses        =    26.73
+    |-+ STDP:
+      |- E-STDP TYPE            = STANDARD
+      |- I-STDP TYPE            = UNKNOWN_STDP
+      |- ALPHA_PLUS_EXC         =  0.10000
+      |- ALPHA_MINUS_EXC        = -0.10000
+      |- TAU_PLUS_INV_EXC       =  0.05000
+      |- TAU_MINUS_INV_EXC      =  0.05000
+      |- BETA_LTP               = 38617707885352780487195566448574464.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 = -4119192287986039821043148783616.00000
+      |- DELTA                  =  0.00000
+      |- NM_PKA                 = 277351205
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+  |-+ Local Connection Id 5: exc2(1) => exc3(2)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 71500
+    |- Avg numPreSynapses         =    26.78
+    |- Avg numPostSynapses        =    26.78
+    |-+ STDP:
+      |- E-STDP TYPE            = STANDARD
+      |- I-STDP TYPE            = UNKNOWN_STDP
+      |- ALPHA_PLUS_EXC         =  0.10000
+      |- ALPHA_MINUS_EXC        = -0.10000
+      |- TAU_PLUS_INV_EXC       =  0.05000
+      |- TAU_MINUS_INV_EXC      =  0.05000
+      |- BETA_LTP               = 38617707885352780487195566448574464.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 = -4119192287986039821043148783616.00000
+      |- DELTA                  =  0.00000
+      |- NM_PKA                 = 277351205
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+  |-+ Local Connection Id 6: exc3(2) => exc1(0)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 71169
+    |- Avg numPreSynapses         =    26.66
+    |- Avg numPostSynapses        =    26.66
+    |-+ STDP:
+      |- E-STDP TYPE            = STANDARD
+      |- I-STDP TYPE            = UNKNOWN_STDP
+      |- ALPHA_PLUS_EXC         =  0.10000
+      |- ALPHA_MINUS_EXC        = -0.10000
+      |- TAU_PLUS_INV_EXC       =  0.05000
+      |- TAU_MINUS_INV_EXC      =  0.05000
+      |- BETA_LTP               = 38617707885352780487195566448574464.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 = -4119192287986039821043148783616.00000
+      |- DELTA                  =  0.00000
+      |- NM_PKA                 = 277351147
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+  |-+ Local Connection Id 7: exc3(2) => exc2(1)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 71484
+    |- Avg numPreSynapses         =    26.77
+    |- Avg numPostSynapses        =    26.77
+    |-+ STDP:
+      |- E-STDP TYPE            = STANDARD
+      |- I-STDP TYPE            = UNKNOWN_STDP
+      |- ALPHA_PLUS_EXC         =  0.10000
+      |- ALPHA_MINUS_EXC        = -0.10000
+      |- TAU_PLUS_INV_EXC       =  0.05000
+      |- TAU_MINUS_INV_EXC      =  0.05000
+      |- BETA_LTP               = 38617707885352780487195566448574464.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 = -4119192287986039821043148783616.00000
+      |- DELTA                  =  0.00000
+      |- NM_PKA                 = 277351205
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+  |-+ Local Connection Id 8: exc3(2) => exc3(2)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 71025
+    |- Avg numPreSynapses         =    26.60
+    |- Avg numPostSynapses        =    26.60
+    |-+ STDP:
+      |- E-STDP TYPE            = STANDARD
+      |- I-STDP TYPE            = UNKNOWN_STDP
+      |- ALPHA_PLUS_EXC         =  0.10000
+      |- ALPHA_MINUS_EXC        = -0.10000
+      |- TAU_PLUS_INV_EXC       =  0.05000
+      |- TAU_MINUS_INV_EXC      =  0.05000
+      |- BETA_LTP               = 38617707885352780487195566448574464.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 = -4119192287986039821043148783616.00000
+      |- DELTA                  =  0.00000
+      |- NM_PKA                 = 277351205
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+  |-+ External Connection Id 12: exc1(0) => inh(3)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  6.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =        1
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 66551
+    |- Avg numPreSynapses         =    33.28
+    |- Avg numPostSynapses        =    24.93
+  |-+ External Connection Id 13: exc2(1) => inh(3)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  6.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =        1
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 66661
+    |- Avg numPreSynapses         =    33.33
+    |- Avg numPostSynapses        =    24.97
+  |-+ External Connection Id 14: exc3(2) => inh(3)
+    |- Type                       =    FIXED
+    |- Min weight                 =  0.00000
+    |- Max weight                 =  6.00000
+    |- Initial weight             =  6.00000
+    |- Min delay                  =        1
+    |- Max delay                  =        1
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 67254
+    |- Avg numPreSynapses         =    33.63
+    |- Avg numPostSynapses        =    25.19
+
++ Local Network (9)
+|-+ Group List:
+  |-+ Local Group inh(G:3,L:0):
+    |- Type                       =    INHIB
+    |- Num of Neurons             =     2000
+    |- Start Id                   = (G:8010,L:0)
+    |- End Id                     = (G:10009,L:1999)
+    |- numPostSynapses            =   161078
+    |- numPreSynapses             =   200466
+  |-+ External Group exc1(G:0,L:1):
+    |- Type                       =    EXCIT
+    |- Num of Neurons             =     2670
+    |- Start Id                   = (G:0,L:2000)
+    |- End Id                     = (G:2669,L:4669)
+    |- numPostSynapses            =    66551
+    |- numPreSynapses             =    53477
+  |-+ External Group exc2(G:1,L:2):
+    |- Type                       =    EXCIT
+    |- Num of Neurons             =     2670
+    |- Start Id                   = (G:2670,L:4670)
+    |- End Id                     = (G:5339,L:7339)
+    |- numPostSynapses            =    66661
+    |- numPreSynapses             =    53806
+  |-+ External Group exc3(G:2,L:3):
+    |- Type                       =    EXCIT
+    |- Num of Neurons             =     2670
+    |- Start Id                   = (G:5340,L:7340)
+    |- End Id                     = (G:8009,L:10009)
+    |- numPostSynapses            =    67254
+    |- numPreSynapses             =    53795
+|-+ Connection List:
+  |-+ External Connection Id 9: inh(3) => exc1(0)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  5.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 53477
+    |- Avg numPreSynapses         =    20.03
+    |- Avg numPostSynapses        =    26.74
+    |-+ STDP:
+      |- E-STDP TYPE            = UNKNOWN_STDP
+      |- I-STDP TYPE            = STANDARD
+      |- ALPHA_PLUS_EXC         =  0.00000
+      |- ALPHA_MINUS_EXC        =  0.00000
+      |- TAU_PLUS_INV_EXC       =  0.00000
+      |- TAU_MINUS_INV_EXC      = 38820195261698611568000266399645696.00000
+      |- BETA_LTP               =  0.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 =  1.00000
+      |- DELTA                  =  1.00000
+      |- NM_PKA                 = 277351147
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+  |-+ External Connection Id 10: inh(3) => exc2(1)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  5.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 53806
+    |- Avg numPreSynapses         =    20.15
+    |- Avg numPostSynapses        =    26.90
+    |-+ STDP:
+      |- E-STDP TYPE            = UNKNOWN_STDP
+      |- I-STDP TYPE            = STANDARD
+      |- ALPHA_PLUS_EXC         =  0.00000
+      |- ALPHA_MINUS_EXC        = 6296218045930236543764394934272.00000
+      |- TAU_PLUS_INV_EXC       =  0.00000
+      |- TAU_MINUS_INV_EXC      = 38820195261698611568000266399645696.00000
+      |- BETA_LTP               =  0.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 =  1.00000
+      |- DELTA                  =  1.00000
+      |- NM_PKA                 = 277351205
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+  |-+ External Connection Id 11: inh(3) => exc3(2)
+    |- Type                       =  PLASTIC
+    |- Min weight                 =  0.00000
+    |- Max weight                 = 10.00000
+    |- Initial weight             =  5.00000
+    |- Min delay                  =        1
+    |- Max delay                  =       20
+    |- Radius X                   =    -1.00
+    |- Radius Y                   =    -1.00
+    |- Radius Z                   =    -1.00
+    |- Num of synapses            = 53795
+    |- Avg numPreSynapses         =    20.15
+    |- Avg numPostSynapses        =    26.90
+    |-+ STDP:
+      |- E-STDP TYPE            = UNKNOWN_STDP
+      |- I-STDP TYPE            = STANDARD
+      |- ALPHA_PLUS_EXC         =  0.00000
+      |- ALPHA_MINUS_EXC        = 6296218045930236543764394934272.00000
+      |- TAU_PLUS_INV_EXC       =  0.00000
+      |- TAU_MINUS_INV_EXC      = 38820195261698611568000266399645696.00000
+      |- BETA_LTP               =  0.00000
+      |- BETA_LTD               =  0.00000
+      |- LAMBDA                 =  1.00000
+      |- DELTA                  =  1.00000
+      |- NM_PKA                 = 277351205
+      |- NM_PLC                 =    32762
+      |- W_PKA                  =  0.00000
+      |- W_PLC                  =  0.00000
+*****************          Spike Routing Table          *************************
+    |-Source net:[8] -> Destination net[9]
+    |-Source net:[9] -> Destination net[8]
+
+*****************      Initializing CPU 0 Runtime      *************************
+
+*****************      Initializing CPU 1 Runtime      *************************
+SpikeMonitor set for group 0 (exc1)
+SpikeMonitor set for group 1 (exc2)
+SpikeMonitor set for group 2 (exc3)
+SpikeMonitor set for group 3 (inh)
+
+--------------------------------------------------------------------------------
+| Stopwatch                                                                    |
+|------------------------------------------------------------------------------|
+|                  Tag         Start          Stop           Lap         Total |
+|                start  00:00:00.000  00:00:05.892  00:00:05.892  00:00:05.892 |
+|           runNetwork  00:00:05.892  00:00:07.032  00:00:01.140  00:00:07.032 |
+--------------------------------------------------------------------------------
+(t=3.000s) SpikeMonitor for group exc1(0) has 2270 spikes in 3000 ms (0.28 +/- 0.30 Hz)
+(t=3.000s) SpikeMonitor for group exc2(1) has 2244 spikes in 3000 ms (0.28 +/- 0.30 Hz)
+(t=3.000s) SpikeMonitor for group exc3(2) has 2119 spikes in 3000 ms (0.26 +/- 0.29 Hz)
+(t=3.000s) SpikeMonitor for group inh(3) has 1087 spikes in 3000 ms (0.18 +/- 0.25 Hz)
+
+
+********************    Simulation Summary      ***************************
+Network Parameters:     numNeurons = 10010 (numNExcReg:numNInhReg = 80.0:20.0)
+                        numSynapses = 1003141
+                        maxDelay = 20
+Simulation Mode:        CUBA
+Random Seed:            42
+Timing:                 Model Simulation Time = 3 sec
+                        Actual Execution Time = 1.01 sec
+                        Speed Factor (Model/Real) = 3.0 x
+Average Firing Rate:    2+ms delay = 0.257 Hz
+                        1ms delay = 0.000 Hz
+                        Overall = 0.257 Hz
+Overall Spike Count Transferred:
+                        2+ms delay = 7720
+                        1ms delay = 0
+Overall Spike Count:    2+ms delay = 7720
+                        1ms delay = 0
+                        Total = 7720
+*********************************************************************************
