@@ -2,8 +2,9 @@
 
 # Efficient Spiking Neural Networks at the Edge with Dynamic Core Allocation
 
-### 2026 IEEE World Congress on Computational Intelligence, IJCNN   
-### SS23: NeuroSNN: Neuromorphic Computing and Spiking Neural Networks I   
+### 2026 IEEE World Congress on Computational Intelligence
+
+### IJCNN SS23: NeuroSNN: Neuromorphic Computing and Spiking Neural Networks I   
 
 ## Description
 Spiking Neural Networks (SNNs) have sparse, eventdriven processing that can leverage neuromorphic applications. 
@@ -15,6 +16,6 @@ and is up to 70% more energy efficient compared to statical core assignment. The
 of edge applications that have low Size, Weight, and Power (SWaP), and can prototype the integration of neuromorphic chips.
 
 ## Authors
-Lars Niedermeier
-Vyom Shah
+Lars Niedermeier,
+Vyom Shah,
 Jeffrey Krichmar
